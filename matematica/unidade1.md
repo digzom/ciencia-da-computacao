@@ -81,7 +81,7 @@ A subtração, a cada par de números x, y ∈ ℝ, associa um número real x - 
 A divisão, a cada par de números x, y ∈ ℝ, associa a um número real da forma: x/y = x .
 (1/y), b != 0.
 
-| **Obs.: Nesse caso, usamos a igualdade aproximada (≅).**
+| **Obs.: No caso de operações com números irracionais, usamos a igualdade aproximada (≅).**
 
 - Ex.: Temos que √3 ≅ 1,73.
   - Logo, √3 ≅ 1,73 + 2,10 = 3,83.
