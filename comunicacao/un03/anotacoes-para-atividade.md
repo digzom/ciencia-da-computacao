@@ -38,6 +38,22 @@
 ### Trabalho acadêmico
 Foram elaboradas algumas normas para regular a estrutura de um trabalho acadêmico.
 - Elementos pré-textuais
+  - Capa
+  - Folha de rosto
+  - Agradecimentos
+  - Resumo
+  - Sumário
 - Elementos textais
+  - Introdução
+  - Capítulos de desenvolvimento
+  - Conclusão
 - Elementos pós-textuais
+  - Referências
+  - Anexos
+  - Apêndices
+- Citação
+  - Permitem o diálogo do trabalho que está sendo desnvolvido com as teorias que o
+  fundamentam
+  - Constitui um instrumento de divulgação de resultados de uma pesquisa científica
+- Demanda níveis de formalidade e uniformidade
 
