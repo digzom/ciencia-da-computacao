@@ -32,7 +32,7 @@ int main(void)
 
 ### Seleção Heterogênea
 Quando não é possível identificar um padrão lógico de construção de uma estrutura de seleção, esta é caracterizada como uma estrutura de seleção heterogênea.
-```c
+```c++
 #include <stdio.h>
 #include <stdlib.h>
 
