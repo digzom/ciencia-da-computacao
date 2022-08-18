@@ -178,6 +178,40 @@ A avaliação é verificar o que modifica na situação atual. Pode ser realizad
 todas as etapas depois do desenvolvimento da intervenção: antes da implementação,
 na introdução, depois da intervenção...
 
+### Processos de design
+
+Processos iterativos, espiral.
+
+Foco no usuário -> projetar sistemas para atender às necessidades do usuário
+Métricas observáveis -> criar testes para ter dados relevantes para a melhoria
+Design interativo -> problemas encontrados devem ser corrigidos
+
+O usuário deve fazer parte de todas as etapas nos processos de design.
+
+### Usabilidade
+
+É a capacidade dos sistema informáticos interativos oferecerem a seus usuários, na
+interação com eles, eficácia, eficiência e satisfação no uso. Fácil aprendizagem de
+uso, segurança, utilidade e recordação.
+
+**Eficácia** é quando os usuários de um sistema conseguem atingir seus objetivos
+corretamente.
+**Eficiência** é quando os usuários atingem seus objetivos da melhor forma possível.
+
+Conceitos para atingir uma usabilidade: 
+**Fácil aprendizado** -> tempo necessário para que o usuário consiga interagir com o sistema de forma flúida 
+**Fácil recordação** -> o esforço cognitivo para lembrar de como interagir com o sistema deve ser pequeno 
+**Eficiência de uso** -> O tempo necessário para se concluir uma atividade
+**Segurança** -> nível de proteção que o sistema oferece 
+**Satisfação** -> o que o sistema causa nas emoções e sentimentos dos usuários
+
+### Design baseado em cenários
+
+Cenários: uma história sobre pessoas executando uma determinada atividade.
+
+Pode gerar várias ideias de solução para diferentes cenários e problemas.
+
+
 
 
 
