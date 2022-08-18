@@ -123,6 +123,68 @@ deve ser entendido como algo que pode ser clicado mesmo sem nenhuma instrução.
 
 ### Percepção das cores
 
+As cores podem influenciar no nosso humor e ações, dependendo sempre do contexto. 
+Tudo depende de sua localização geográfica, cultura, faixa etária, formação, etc. É 
+trabalho do designer pensar nisso, pois as cores e interface do sistema vão variar 
+baseados nessas características.
+
+Uma recomendação comum é que a interface seja desenvolvida primeiramente em preto e
+branco e depois suas cores sejam definidas, para que seja dado o devido foco. Além
+disso, é importante não escolher muitas cores (nao ultrapassar 7) na mesma tela,
+pois isso pode atrapalhar a percepção dos usuários.
+
+Preocupe-se com o contraste entre as letras e a cor de fundo de onde essa letra
+localiza-se. Não pode haver um contraste muito forte, mas também não pode ser pouco.
+
+Cores são importantes porque podem facilitar bastante a memorização dos processos do
+sistema, tornando tudo mais intuitivo e diminuindo a fricção do contato do usuário
+com o programa.
+
+### Importância da qualidade em IHC
+
+Existem critérios que não podem ser negligenciados:
+
+- Usabilidade
+  - a fácil utilização do sistema interativo e sua satisfação durante o uso
+- Experiência do usuário
+  - é preciso remover frustrações do usuário na interação com o sistema
+- Acessibilidade
+  - diminuir ou zerar as barreiras que didifultem a interação do usuário
+- Comunicabilidade
+  - a forma e qualidade da comunicação entre o *designer* do sistema e o usuário.
+
+## Pirncípios de design - Usabilidade 
+
+Em grande medida, um artefato novo surge a partir da análise/percepção de um
+problema que precisa ser resolvido ou um processo/resultado que precise ser
+otimizado/melhorado.
+
+Essa análise é separada em três etapas:
+
+- Análise da Situação -> estudar e compreender toda a situação já existente
+- Síntese da Intervernção -> definir e implementar uma intervenção sobre a situação
+- Avaliação da Nova Situação -> estudar os efeitos da intervenção desenvolvida
+
+É um ciclo: Análise -> Síntese -> Avaliação -> Análise -> Síntese...
+
+Ao analisar, precisamos pensar nos usuários com suas características e preferências,
+as funções executadas nos sistemas atuais, a perspectiva de uso ao longo do tempo, o
+cliente e o desenvolvedor.
+
+A intervenção é o fruto da análise, a resposta de como melhorar uma situação já
+existente. Envolve todos os personagens da análise.
+
+A avaliação é verificar o que modifica na situação atual. Pode ser realizada em
+todas as etapas depois do desenvolvimento da intervenção: antes da implementação,
+na introdução, depois da intervenção...
+
+
+
+
+
+
+
+
 
 
 
