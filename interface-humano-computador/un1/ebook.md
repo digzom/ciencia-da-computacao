@@ -60,7 +60,7 @@ design, antropologia, filosofia e outros assuntos para compor seu campo teórico
 - Usuário
 
 Cada um enxerga o mesmo software à sua própria maneira, mas que complementam-se.
-Cada uma enfatiza e analiza o sistema da forma que é mais importante para sua área.
+Cada uma enfatiza e analisa o sistema da forma que é mais importante para sua área.
 
 Um dos maiores problemas na interação entre usuários e computadores é que os
 sistemas são pensados de maneira finita, programados com um conjunto finito de
@@ -97,7 +97,34 @@ Existem quatro perspectivas de interação:
   - O sistema é planejado como um instrumento para a realização de determinadas
   tarefas
 - Mídia
-  - o sistema é entendido como uma televisão, rádio ou qualquer meio difusor de comunicação. 
+  - O sistema é entendido como uma televisão, rádio ou qualquer meio difusor de comunicação. 
+  - Como o sistema se comunica com o usuário? Como ele comunica o seu uso?
+
+**Interface:** é toda a parte do sistema com que o usuário mantém contato físico ou
+conceitual. Por isso a gente maioria dos usuários acredita que o sistema é a própria
+interface.
+
+- Contato físico -> é quando o usuário tem contato, por exemplo, com os periféricos,
+  onde o mouse, teclado ou touch dão a possibilidade de o usuário realizar ações
+  sobre a interface.
+- Contato conceitural -> está relacionado com a interpretação de como o usuário
+  utiliza a interface e com o feedback que o sistema retorna para que o usuário
+  possa escolher seu próximo passo.
+
+### Affordance
+
+Affordance é quando se olha para um objeto e tem a noção do que ele faz e o que é
+possível fazer com ele sem precisar de instruções. É intuitividade.
+
+A intenção é trazer para o mundo digital o conceito se usabilidade e intuitividade
+que já existia no mundo material. Por exemplo: assim como no mundo físico um botão é
+facilmente entendível como algo que pode ser pressionado, no mundo digital um botão
+deve ser entendido como algo que pode ser clicado mesmo sem nenhuma instrução.
+
+### Percepção das cores
+
+
+
 
 
 
