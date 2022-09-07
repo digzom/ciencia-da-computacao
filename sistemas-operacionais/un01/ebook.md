@@ -205,9 +205,54 @@ metadados sobre eles. Um PCB contém informação sobre:
 - o status de IO (input/output) com dados de recurso (dispositivos) utilizados
 - tempo de cpu, memória alocada, etc
 
+A escolha de qual processo deve ser executado acontece baseado nos estados anteriores,
+que requerem uma estratégia de escalonamento.
 
+### Políticas de escalonamento
 
+- **First Come, Fist Served** (FCFS): atende o processo que chegar primeiro. É não
+  preemptivo (não interrompe o processo ao término do quantum)
+- **Shortest Job Fist** (SJF): escolhe-se o processo que representa o menor trabalho.
+  Por ser não preemptivo, executa a tarefa até seu término.
+- **SJF Preemptivo**: também escolhe o processo com menor trabalho, mas o interrompe ao
+  término do quantum.
+- **Round Robin**: idêntico ao FCFS, porém, preemptivo. Escalonamento por revezamento.
 
+## Interagindo com o gerenciador de processos
 
+O gerenciador de processos define as políticas de priorização de processos. Por mais que
+pareça que os processos ocorrem todos aos mesmo tempo, isso não é verdade. Os processos
+ocorrem sempre dentro do seu quantum, um de cada vez em cada core da CPU.
 
+O tempo total dado ao processo é decidido através da prioridade escolhida pelo usuário ou
+programa.
+
+Para ocorrer a comunicação entre o SO e as aplicações, é preciso existir algo que faça
+essa comunicação. É aí que entram as linguagens de programação.
+
+### Usando linguagem de programação
+
+A comunicação entre aplicações se dá por uma API, através de chamadas à esta API. Por
+vezes, essa comunicação entre aplicações é chamada de `interprocess comunication` (IPC).
+
+Sendo assim, nem tudo que o SO faz é relacionado com o hardware. Essas **funcionalidade
+de software** são disponibilizadas para as linguagens de programação interagirem com o
+SO.
+
+Quando uma linguagem de programação chama um método ou função para alocar memória, por
+exemplo, por trás dos panos ela está se comunicando com uma api do sistema operacional.
+
+Usando C para abrir um arquivo no linux, por exemplo, os comandos de C serão
+redirecionaods para a API `syscall()`, e ela fará a chamada para o sistema. Essa chamada
+geralmente tem um identificador (algo como `0x5`), então será a chamada de abrir arquivo.
+Então essa referência apontará para o trecho de código correspondente no kernel do SO.
+
+### Simulação de processos
+
+Um simulador de processos é uma aplicação que permite a simulação de execução de
+processos. 
+
+A simulação de processos é uma boa ferramenta para termos uma percepção de como ocorre a
+dinâmica na qual o SO está profundamente envolvido por meio de seu escalonador de
+tarefas.
 
