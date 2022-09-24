@@ -112,7 +112,9 @@ esforço para ter o controle que precisa.
 
 ### Engenharia cognitiva
 
-gque possa resultar em alguma variação no sistema. Essa teoria separou intenções e
+Quando um usuário precisa realizar determinada operação, as suas intenções existem
+apenas em sua mente. Já para que ele realize esta operação, é necessário algo físico
+que possa resultar em alguma variação no sistema. Essa teoria separou intenções e
 ações no sistema, em dois aspectos: o golfo de execução e o golfo de avaliação.
 
 O golfo de execução está ligado com a intenção do usuário, onde ele estabelece um
@@ -179,5 +181,17 @@ necessidades, desejos e sua própria percepção deste mundo.
 Metáforas tornam a rotina do usuário mais leve e agradável. Pois criam familiaridade e
 facilitam a compreensão de uma interface. Ex.: lixeiras, pastas, livros, calculadora,
 icon de zip.
+
+Na primeira vez que um usuário entra em contato com o sistema, é necessário que ele
+reconheça elementos visuais da realidade para conseguir reconhecer funcionalidade ou
+pelo menos saber por onde começar.
+
+### Design participativo
+
+Essa técnica coloca os usuários finais do produto como participantes na fase de
+elaboração, equanto outras metologias só os chamam na fase de testes.
+
+A junção e adaptação de práticas e princípios visam solucionar problemas por meio de
+soluções estratégicas dadas pelos próprios utilizadores do sistema. 
 
 
